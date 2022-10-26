@@ -1,11 +1,6 @@
-// FCAI � Programming 1 � 2022 - Assignment 2
+// Author: Karim Hassib
 // Program Name: All Ciphers.cpp
 // Program Description: Encrypt and decrypt messages using any of the ten ciphers
-// Last Modification Date: 23/3/2022
-// Author1 and ID and Group: 20210080
-// Author2 and ID and Group: 20210298
-// Author3 and ID and Group: 20211033
-// Teaching Assistant: xxxxx xxxxx
 // Purpose: Practicing c++
 #include <iostream>
 #include<bits/stdc++.h>
